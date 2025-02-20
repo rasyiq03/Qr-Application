@@ -45,7 +45,7 @@ def isValid():
         labelg.place(x= 150, y= 200 )
         messagebox.showinfo("message box","Url Berhasil dibuat")
 
-
+a = 13
 label = tk.Label(root, text="Masukan Url!")
 label.place(x= 220 , y=10 )
 
